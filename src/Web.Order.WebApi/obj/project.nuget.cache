@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVA8HrDFXCnNIS/Cch+IH7zD4id9BltWlZYL5GI04S98sD99l0ABHPpIII/F8/5XHrd0ZkY06X8oGGq6O7FPVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ensar\\Desktop\\Eğitim\\Projeler\\Akyıldız Sipariş\\WebOrder\\src\\Web.Order.WebApi\\Web.Order.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ensar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ensar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ensar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ensar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ensar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ensar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
